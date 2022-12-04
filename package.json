@@ -1,0 +1,27 @@
+{
+  "name": "rc4a",
+  "version": "0.1.2",
+  "author": {
+    "name": "Mikhel",
+    "email": "sasha16200@gmail.com",
+    "url": "mikhel.com"
+  },
+  "description": "Simple text-password advanced encryption & decryption UTF-8 algorithm based on alleged RC4. NodeJS, JavaScript, PHP compatible.",
+  "keywords": [
+    "encryption",
+    "decryption",
+    "utf-8",
+    "algorithm",
+    "rc4",
+    "arc4",
+    "arcfour",
+    "rc4a",
+    "aes",
+    "nodejs",
+    "javascript",
+    "php",
+    "password",
+    "salt"
+  ],
+  "license":"MIT",
+}
